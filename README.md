@@ -1,4 +1,4 @@
-## Oi, me chamo Eduardo cortez, sou novato aqui.
+## Oi me chamo Eduardo, sou novato aqui.
 
 
 ### Atualmente estou estudando:
