@@ -16,4 +16,4 @@
 
 ### Minhas redes sociais:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=link_do_seu_perfil)](https://github.com/duduomena)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](www.linkedin.com/in/eduardocortez-omena)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/eduardocortez-omena)
